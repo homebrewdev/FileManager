@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "Read file"; ObjectID = "4LW-cI-h9z"; */
+"4LW-cI-h9z.normalTitle" = "Чтение файла";
+
+/* Class = "UIView"; accessibilityHint = "View A"; ObjectID = "8Ob-Nl-UxE"; */
+"8Ob-Nl-UxE.accessibilityHint" = "View A";
+
+/* Class = "UIView"; accessibilityLabel = "View A"; ObjectID = "8Ob-Nl-UxE"; */
+"8Ob-Nl-UxE.accessibilityLabel" = "View A";
+
+/* Class = "UILabel"; text = "Enter Some text here:"; ObjectID = "CkQ-36-Yya"; */
+"CkQ-36-Yya.text" = "Наберите здесь текст:";
+
+/* Class = "UIButton"; normalTitle = "Delete file"; ObjectID = "L1j-hW-LRu"; */
+"L1j-hW-LRu.normalTitle" = "Удалить файл";
+
+/* Class = "UIButton"; normalTitle = "Create file"; ObjectID = "P3a-zP-RzC"; */
+"P3a-zP-RzC.normalTitle" = "Создать файл";
+
+/* Class = "UINavigationItem"; title = "Main Screen"; ObjectID = "PVp-tH-94L"; */
+"PVp-tH-94L.title" = "Главный экран";
+
+/* Class = "UILabel"; text = "File has content:"; ObjectID = "UEL-Sa-zZ0"; */
+"UEL-Sa-zZ0.text" = "Содержание файла:";
+
+/* Class = "UIViewController"; title = "File Manager"; ObjectID = "WXo-We-JTV"; */
+"WXo-We-JTV.title" = "Менеджер файлов";
+
+/* Class = "UIButton"; normalTitle = "View directory"; ObjectID = "tZT-GA-04J"; */
+"tZT-GA-04J.normalTitle" = "Содержание директории";
