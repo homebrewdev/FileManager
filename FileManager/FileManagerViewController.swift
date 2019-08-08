@@ -84,7 +84,7 @@ class FileManagerViewController: UIViewController {
     @IBAction func viewDirectoryTapButton(_ sender: UIButton) {
         // Смотрим содержимое папки
         let directoryWithFiles = checkDirectory() ?? "Файлов нет. Пусто"
-        let contentsOfDirectory = "Contents of Directory =  \(directoryWithFiles)"
+        let contentsOfDirectory = "Contents of Directory \(tempDir): \(directoryWithFiles)"
         print(contentsOfDirectory) // выведем в консоль
         fmTextView.text = contentsOfDirectory // выведем в поле fmTextView
         fmTextView.textColor = UIColor.blue

@@ -19,12 +19,12 @@
 		DE61A2D122F82D2E0067B530 /* FileManager.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FileManager.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE61A2D422F82D2E0067B530 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE61A2D622F82D2E0067B530 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DE61A2D922F82D2E0067B530 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DE61A2DB22F82D2F0067B530 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DE61A2DE22F82D2F0067B530 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE61A2E022F82D2F0067B530 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DE61A2E622F839DD0067B530 /* FileManagerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileManagerViewController.swift; sourceTree = "<group>"; };
-		DE94EB1022F86B6D00FB418C /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
+		DEFE637F22FC5AE1008AF6F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DEFE638122FC5BD0008AF6F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DEFE638222FC5BD9008AF6F4 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,8 +151,8 @@
 		DE61A2D822F82D2E0067B530 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DE61A2D922F82D2E0067B530 /* Base */,
-				DE94EB1022F86B6D00FB418C /* ru */,
+				DEFE638122FC5BD0008AF6F4 /* Base */,
+				DEFE638222FC5BD9008AF6F4 /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -160,7 +160,7 @@
 		DE61A2DD22F82D2F0067B530 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DE61A2DE22F82D2F0067B530 /* Base */,
+				DEFE637F22FC5AE1008AF6F4 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
